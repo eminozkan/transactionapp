@@ -1,4 +1,4 @@
-package eminozkan.transaction.service;
+package eminozkan.transaction.service.register;
 
 import eminozkan.transaction.model.User;
 import eminozkan.transaction.repository.UserRepository;

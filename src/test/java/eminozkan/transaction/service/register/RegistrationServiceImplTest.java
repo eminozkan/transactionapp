@@ -1,8 +1,9 @@
-package eminozkan.transaction.service;
+package eminozkan.transaction.service.register;
 
 import eminozkan.transaction.model.Gender;
 import eminozkan.transaction.model.User;
 import eminozkan.transaction.repository.UserRepository;
+import eminozkan.transaction.service.register.RegistrationServiceImpl;
 import eminozkan.transaction.service.request.UserRegistrationServiceRequest;
 import eminozkan.transaction.util.result.OperationFailureReason;
 import org.junit.jupiter.api.BeforeEach;

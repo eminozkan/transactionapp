@@ -1,6 +1,6 @@
-package eminozkan.transaction.controller;
+package eminozkan.transaction.controller.register;
 
-import eminozkan.transaction.service.RegistrationService;
+import eminozkan.transaction.service.register.RegistrationService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;

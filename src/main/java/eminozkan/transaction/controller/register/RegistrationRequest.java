@@ -1,4 +1,4 @@
-package eminozkan.transaction.controller;
+package eminozkan.transaction.controller.register;
 
 import eminozkan.transaction.model.Gender;
 import eminozkan.transaction.service.request.UserRegistrationServiceRequest;

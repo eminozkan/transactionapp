@@ -1,4 +1,4 @@
-package eminozkan.transaction.service;
+package eminozkan.transaction.service.register;
 
 import eminozkan.transaction.service.request.UserRegistrationServiceRequest;
 import eminozkan.transaction.util.result.CrudResult;
